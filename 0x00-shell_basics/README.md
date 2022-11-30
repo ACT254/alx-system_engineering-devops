@@ -1,2 +1,6 @@
 # Welcome 
-The first script in this project will pritn the name of the crrent working directory
+I will be explaining the main aim of ech bach file in this shell basics folder.
+
+## 0-current_working_directory
+Printing the current working directory
+
